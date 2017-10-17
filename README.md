@@ -1,8 +1,8 @@
 # HolaMundo
 ## ejemplo
-111
-222
-333
-git config --global USERNAME _______
-git init
-git commit
+## git config --global USERNAME _______
+## git init
+## git commit
+## git clone
+## git diff
+## git add ____
