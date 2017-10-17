@@ -6,3 +6,4 @@
 ## git clone
 ## git diff
 ## git add ____
+## git status
